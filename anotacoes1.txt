@@ -1,1 +1,2 @@
 Minha segunda vez no Git!!!
+Segunda alteração no documento.
